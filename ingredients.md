@@ -14,4 +14,3 @@ Pinch cayenne pepper, optional
 3 to 5 large eggs
 1 avocado, sliced
 Microgreens, for garnish, optional
-Toasted bread, for serving
