@@ -1,5 +1,6 @@
 # tablespoons extra-virgin olive oil
 
+Let's begin!
 1 cup chopped yellow onion
 1 red bell pepper, stemmed, seeded, and diced
 ¼ teaspoon sea salt, plus more to taste
@@ -14,3 +15,4 @@ Pinch cayenne pepper, optional
 3 to 5 large eggs
 1 avocado, sliced
 Microgreens, for garnish, optional
+Enjoy my recipe!
