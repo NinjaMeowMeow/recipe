@@ -8,5 +8,5 @@ Shows ingredients of the recipe from **Love and Lemons** (https://www.loveandlem
 2. Salt
 3. Olive Oil
 4. Onion
-last line changed locally
+![The dish looks delicious](https://cdn.loveandlemons.com/wp-content/uploads/2017/01/shakshuka-recipe-745x1024.jpg)
 ### This is a REMOTE change :O
